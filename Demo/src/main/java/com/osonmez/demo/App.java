@@ -18,4 +18,8 @@ public class App
     public int getNumber2(){
     	return 2;
     }
+    
+    public int getNumber3(){
+    	return 3;
+    }
 }

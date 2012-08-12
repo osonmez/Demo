@@ -57,5 +57,10 @@ public class AppTest {
 	public void testNumber2() {
 		assertEquals(2, app.getNumber2());
 	}
+	
+	@Test
+	public void testNumber3() {
+		assertEquals(2, app.getNumber3());
+	}
 
 }
