@@ -60,7 +60,7 @@ public class AppTest {
 	
 	@Test
 	public void testNumber3() {
-		assertEquals(2, app.getNumber3());
+		assertEquals(3, app.getNumber3());
 	}
 
 }
